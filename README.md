@@ -4,6 +4,7 @@ DIY IOT Library for Raspberry Pi
   - Defining your own RESTFul API and Controller for asynchronously controlling "things" connected to Rapsberry Pi GPIO.
   - RPi.GPIO / WiringPi wrapper with "mocks" for development on your own Mac
   - "things" registration and discovery
+  - "things" heartbeat
   - "things" plugin - the actual piece of code that will control your own "thing" connected to Raspberry Pi.
   - "things" status - ephemeral/persistent data store
   - "things" log persistance/archive
@@ -17,6 +18,7 @@ DIY IOT Library for Raspberry Pi
 What about:
 - Queue?
 - Errors?
+- Status / Heartbeat?
 
 # Motivation
 
