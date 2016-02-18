@@ -9,6 +9,7 @@ DIY IOT Library for Raspberry Pi
   - "things" status - ephemeral/persistent data store
   - "things" log persistance/archive
   - "things" talking to "network" via a chatty protocol
+  - "things" Hub
   - "things" uploading / offloading state, data, logs to cloud or your own database
 
 - Swift SDK (SwiftThingsPy) for invoking ThingsPy RESTFul API
