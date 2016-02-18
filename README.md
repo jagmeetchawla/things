@@ -19,3 +19,5 @@ What about:
 - Errors?
 
 # Motivation
+
+Just started with my own DIY home automation project. Doing this to make my own life easier by removing all the boilerplate away.
