@@ -1,7 +1,7 @@
 # Synopsis
 DIY IOT Library for Raspberry Pi
 - Python library (ThingsPy) for
-  - Defining your own RESTFul API and Controller for asynchronously controlling "things" connected to Rapsberry Pi GPIO.
+  - Defining your own RESTFul API and Controller for asynchronously controlling "things" connected to Rapsberry Pi.
   - RPi.GPIO / WiringPi wrapper with "mocks" for development on your own Mac
   - "things" registration and discovery
   - "things" heartbeat via GPIO pin readout
